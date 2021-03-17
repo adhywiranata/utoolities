@@ -1,6 +1,6 @@
 {
   "name": "capitalize",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.0",
   "description": "Transforms string into capital format",
   "author": "Adhy Wiranata <adhywiranatap@gmail.com>",
   "homepage": "https://github.com/adhywiranata/utoolities#readme",
